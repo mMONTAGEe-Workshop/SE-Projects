@@ -1,0 +1,29 @@
+workshopitem	"More Music Addon"
+{
+	appid			314650
+	publishedfileid		3135703351
+	contentfolder		"D:\Steam\steamapps\common\SpaceEngine\addons\enchantments\"
+	previewfile		"D:\Steam\steamapps\common\SpaceEngine\addons\enchantments\preview.jpg"
+	visibility		0
+	description		"Addon includes:
+
+Andrew Odd - Elysion
+Ascendant - Reactive Light
+AstroPilot - Leaving Earth
+AstroPilot - Voids Serenade
+LUNIQ, Astropilot - Ad Avalon
+AstroPilot, Astronaut Ape - Ad Astra
+Dreamstate Logic - Emanations
+Dreamstate Logic - Forgotten Planet
+Dreamstate Logic - Earthbound
+Dreamstate Logic - From The Source
+Eguana - Vacuum Gardens
+Eguana - Heart of Molecule
+Lars Leonhard - Hyperbolic
+Stellardrone - Eternity
+Stellardrone - Eternity (Reprise)
+Stellardrone - Nightscape
+"
+	changenote		""
+	updatedonworkshop	true
+}

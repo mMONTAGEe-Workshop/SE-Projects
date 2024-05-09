@@ -1,0 +1,56 @@
+workshopitem	"Distant Worlds Vessels"
+{
+	appid			314650
+	publishedfileid		3110296590
+	contentfolder		"D:\Steam\steamapps\common\SpaceEngine\addons\distant woralds\"
+	previewfile		"D:\Steam\steamapps\common\SpaceEngine\addons\distant woralds\preview.png"
+	visibility		0
+	description		"Part of Distant Worlds - https://mmontagee-workshop.github.io/Distant-Worlds/
+Engine , FTL Jump and Travel have unique sounds.
+
+Solar System United Fleet:
+
+Generation Megaship Astralis:
+"Self sustaining intergalactic FTL vessel, capable of sustaining generations in its gigantic ring."
+- 14 Modified Jackson Thrusters (709)
+- Embedded modernised FTL Technologies with 1 supportive tachyons particles accelerator
+
+United LunaTerra Yards:
+
+Kepler Class Interstellar Cruiser Model 2:
+"Joint Humanity's Project to open the door to other stars."
+- 4 Jackson Thrusters (120.291)
+- 2 Faster Than Light (FTL) Rings, (Warp x11.5) with 0.33 ly/s speed.
+
+Kepler Class Interstellar Cruiser Model 3:
+"Modernised, Improved, Reworked legendary Model 2 to be more efficient, faster, with greater crew capabilities"
+- 6 Jackson Thrusters (680.6), 2 Two Sided Thrusters
+- 4 Faster Than Light (FTL) Rings, (Warp 13.5), with 33.45 ly/s speed.
+
+Type-8 Asteroid Hauler
+"Asteroid Mining and Hauling Vessel constructed by ULT for own needs"
+- 4 Two Sided Jackson Thrusters (313.536)
+- No FTL rings installed, meant to be used interplanetary only.
+
+System Probing Drone
+"Remote Controlled Probe with Experimental Thruster with embedded FTL tech" (default SE probe with warp enabled)
+- 1 Ion Engine
+- Experimental FTL tech embedded into Ion Engine
+- 66.92 AU/s Speed
+
+
+Martian Technate Docks:
+
+Njdeh Class Reaper
+"Medium Size strongest light military vessel, unmatched by noone, Unique shield engineering allowed Reaper to ram medium sized starports or other hostile ships, Armed with 40 torpedoes for bombardment"
+- 8 Jackson Thrusters (315.6961)
+- 3 FTL Rings Developed by Martian MicroChips, ( Warp x10.3) with 2.11 ly/s speed
+
+Ceres Shipyards:
+
+DiamondBack Racing Dart
+"Specificly developed to be fastest normal cruise ship, protective shield and light corpuse makes it ideal for both space racing and atmospheric drag racing"
+- 2 Modified Jackson Thrusters (458.039)"
+	changenote		"Added New Vessel: SSUF Aralez-Class, Part of "Gifted New Home" Chapter, Largest Self Sustaining Megaship"
+	updatedonworkshop	true
+}

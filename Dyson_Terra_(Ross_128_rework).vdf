@@ -1,0 +1,11 @@
+workshopitem	"Dyson Terra (Ross 128 rework)"
+{
+	appid			314650
+	publishedfileid		3117279181
+	contentfolder		"D:\Steam\steamapps\common\SpaceEngine\addons\dysonterra\"
+	previewfile		"D:\Steam\steamapps\common\SpaceEngine\addons\dysonterra\preview.png"
+	visibility		0
+	description		""
+	changenote		""
+	updatedonworkshop	true
+}

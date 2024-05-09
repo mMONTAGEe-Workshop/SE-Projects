@@ -1,0 +1,11 @@
+workshopitem	"Novrutara (Kepler-1649 c)"
+{
+	appid			314650
+	publishedfileid		3107733557
+	contentfolder		"D:\Steam\steamapps\common\SpaceEngine\addons\novrut\"
+	previewfile		"D:\Steam\steamapps\common\SpaceEngine\addons\novrut\preview.png"
+	visibility		0
+	description		""
+	changenote		""
+	updatedonworkshop	true
+}

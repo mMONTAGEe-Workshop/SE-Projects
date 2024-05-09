@@ -1,0 +1,13 @@
+workshopitem	"Stellar Bridges"
+{
+	appid			314650
+	publishedfileid		3077476178
+	contentfolder		"D:\Steam\steamapps\common\SpaceEngine\addons\StellarRings\"
+	previewfile		"D:\Steam\steamapps\common\SpaceEngine\addons\StellarRings\preview.png"
+	visibility		0
+	description		"Network of Wormholes Connecting Togethers Stars of Stellar Neighborhood. and Stars of my Addons.
+
+Wormholes Connection order is written in images"
+	changenote		""
+	updatedonworkshop	true
+}

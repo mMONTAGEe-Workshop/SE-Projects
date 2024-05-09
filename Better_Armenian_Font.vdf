@@ -1,0 +1,15 @@
+workshopitem	"Better Armenian Font"
+{
+	appid			314650
+	publishedfileid		3097850757
+	contentfolder		"D:\Steam\steamapps\common\SpaceEngine\addons\armenianfont\"
+	previewfile		"D:\Steam\steamapps\common\SpaceEngine\addons\armenianfont\preview.png"
+	visibility		0
+	description		"Font used - Montserrat Armenian
+License - Open Fonts License
+
+Also Works with -
+Does not Support - "
+	changenote		""
+	updatedonworkshop	true
+}

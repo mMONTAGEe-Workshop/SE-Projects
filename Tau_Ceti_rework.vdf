@@ -1,0 +1,11 @@
+workshopitem	"Tau Ceti rework"
+{
+	appid			314650
+	publishedfileid		3109917979
+	contentfolder		"D:\Steam\steamapps\common\SpaceEngine\addons\tau ceti\"
+	previewfile		"D:\Steam\steamapps\common\SpaceEngine\addons\tau ceti\preview.png"
+	visibility		0
+	description		"Rework of Space Engine's Tau Ceti 4 Gas Giant planets to 7 Planet system including unconfirmed candidates, Visually based on artistic impressions."
+	changenote		""
+	updatedonworkshop	true
+}

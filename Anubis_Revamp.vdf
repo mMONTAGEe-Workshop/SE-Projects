@@ -1,0 +1,23 @@
+workshopitem	"Anubis Revamp"
+{
+	appid			314650
+	publishedfileid		3040703786
+	contentfolder		"D:\Steam\steamapps\workshop\content\314650\3040703786\"
+	previewfile		""
+	visibility		0
+	description		"Rework of anubis kingdom addon.
+
+Pack adds black hole system with 3 stars.
+
+
+
+no proper lore stuff still.
+
+
+Anubis, true gem of Andromeda galaxy, located between Andromeda and it's dwarf moon galaxy. The planet was settled by Ktria Technate faction from Kailen star system. local regional power of Andromeda Galaxy.
+Anubis is cooling down black hole, cold particles haze around accretion disk give Anubis unique look
+
+Haurun andd Heset were terraformed by the Kitria Technate faction, Haurun experiment went fatally horrible and caused seismic activites and climate change on planet caused it to drastically change, meanwhile Heset was much better candidate which allowed smooth and stable planet terraformation."
+	changenote		"test tp fix accretion disk"
+	updatedonworkshop	true
+}
